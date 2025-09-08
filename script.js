@@ -108,7 +108,7 @@ const questions = [
   {
     question: "Mera favourite app kaunsa hai?",
     choices: ["Instagram", "Facebook", "WhatsApp", "Snapchat"],
-    answer: "Whatsapp",
+    answer: "WhatsApp",
   },
   {
     question: "Mujhe sabse zyada photo khichwana pasand hai ya video banana?",
